@@ -5,6 +5,7 @@
 	"license": "Apache-2.0",
 	"extra": {
 		"assets-files": [
+			"less.config.js",
 			"less.js",
 			"less.min.js",
 			"less.min.js.map"
