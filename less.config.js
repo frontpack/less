@@ -1,6 +1,6 @@
 less = {
 	env: 'development',
-	async: true,
+	async: false,
 	relativeUrls: true,
 	useFileCache: false
 };
